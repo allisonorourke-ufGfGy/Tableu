@@ -16,5 +16,6 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 2. The second analysis that we did roke down the previous graph by gender to see if that had any affect. What we were able to find is that males are much more likely to bike and to bike for longer periods of time. Females followed with the second largest amount of time and duration finally followed by unknown.
 ![image 2](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%202.png)
 3. The third analysis shows what day of the week and what time of that day people are most likely to use the bikes. In this image we can see that during typical communte times is when someone is most likely to use the bikes. The weekends all day during daylight hours are also moderatly popular.
-!image 3](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%203.png)
-4.
+![image 3](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%203.png)
+4. We then took the previous graph and looked to see if breaking it down by gender would have any effect. In this it can be seen that, like the second analysis, the males are more likely to use bikes than females but the patterns in the thrid analysis of time of the weekdays was consistent through all genders.
+![image 4](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%204.png)
