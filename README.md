@@ -10,3 +10,6 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 * Show the number of bike trips for each type of user and gender for each day of the week.
 
 Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+## Results
+1. For the first analysis we did we wanted to look to see how long people used the bikes and how long the different trips are. This graph shows that as the longer the trip is the more likely people are to use it (* I had issues with my computer on this one. I consolted with the tutors and the AskBCS and we discovered that my computer was not capable of handeling the large size of the data file. This data is incomplete but it was determined that based on the processing power of my computer that it would not be able to handle the capacity*). In the example given on the module challenge we can see that people are more likely to bike for one hour or less. 
+![image 1](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/table%201.png)
