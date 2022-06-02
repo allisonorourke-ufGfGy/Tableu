@@ -19,3 +19,8 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 ![image 3](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%203.png)
 4. We then took the previous graph and looked to see if breaking it down by gender would have any effect. In this it can be seen that, like the second analysis, the males are more likely to use bikes than females but the patterns in the thrid analysis of time of the weekdays was consistent through all genders.
 ![image 4](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%204.png)
+5. In this analysis we wanted to look and see if people were more likely to be subscribers or customers when they use the bike, what day they used the bike, and what gender they were. This combined a lot of our previous analysis findings but what was also seen was that people are more likely to use the bikes if they are subscribers.
+![image 5](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%205.png)
+6. Finally we wanted to see if there was any differece in where people were more liekly to start or end a journey. Below you can see patterns through out the city. The blue image represents where an individual starts a trip while the red/orange represents where they end a trip. This helps us to understand how people move through the city and where it is important to put more avaiable bike stations. 
+![image 6](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%206.png)
+![image 7](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%207.png)
