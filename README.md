@@ -24,3 +24,11 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 6. Finally we wanted to see if there was any differece in where people were more liekly to start or end a journey. Below you can see patterns through out the city. The blue image represents where an individual starts a trip while the red/orange represents where they end a trip. This helps us to understand how people move through the city and where it is important to put more avaiable bike stations. 
 ![image 6](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%206.png)
 ![image 7](https://github.com/allisonorourke-ufGfGy/Tableu/blob/main/images/image%207.png)
+## Summary
+### Summary of Results 
+Throughout this analysis there are a couple of main trends that we are able to see appear. One is that men are more liekly to use the bikes than females. Another one is that bikes are most likely to be used during daylight hours, during typical commute times on the weekdays, and all day during the weekend.
+### Future graph suggestions
+Some suggestions for future analysis may be to look at the ages of people who use the bikes by gender to see if one gender is more liekly to be of a certain age. Another idea for analysis is to look at the bike usage based on the season or weather patterns.
+
+To see the Tableu storyboard please see
+[link to dashboard](https://public.tableau.com/app/profile/allison.o.rourke/viz/Module14Challenge_16541327999310/Story1?publish=yes)
